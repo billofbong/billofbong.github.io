@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #212cbc;
+}
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0 0 1em 0;
+}
+.background
+{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    float: none;
+    flex-direction: column;
+    justify-content: center;
+}
+.tickerbox
+{
+    position: relative;
+    background-color: #67afef;
+    padding: 3.5em;
+    margin: auto;
+    border-radius: 25px;
+}
+.padded
+{
+    margin-top: 1em;
+}

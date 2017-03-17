@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="StockMarket" uploadOnCheckin="5e7273fe-7e85-43a1-8c44-79917287d17a">
+    <serverData>
+      <paths name="PHPMemes">
+        <serverdata>
+          <mappings>
+            <mapping deploy="PHPMemes" local="$PROJECT_DIR$/../PHPMemes" web="/PHPMemes" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="StockMarket">
+        <serverdata>
+          <mappings>
+            <mapping deploy="StockMarket" local="$PROJECT_DIR$" web="/StockMarket" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="StockMarket" />
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
